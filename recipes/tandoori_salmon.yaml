@@ -1,0 +1,33 @@
+name : Tandoori Salmon
+serves: 6
+ingredients:
+  - key     : salmonfillet
+    quantity: 540
+  - key     : fat_free_yoghurt
+    quantity: 200
+  - key     : unclebenswholegrainrice
+    quantity: 750
+otheringredients:
+  - quantity: 1tsp
+    name    : Curry Powder
+  - quantity: 1
+    name    : Lemon, juice of
+  - quantity: 2 tsp
+    name    : Garlic
+  - quantity: 1/2 tsp
+    name    : Ginger
+  - quantity: 1 tsp
+    name    : Cumin
+  - quantity: 2 tsp
+    name    : Coriander
+  - quantity: 1 tsp
+    name    : Paprika
+  - quantity: 1 tsp
+    name    : Tumeric
+
+directions:
+  - Mix everything except the salmon and rice together
+  - George Foreman the salmon, and then flake
+  - Mix with sauce
+  - Warm until hot all through
+  - Serve with rice

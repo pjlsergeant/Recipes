@@ -6,6 +6,13 @@ ingredients:
   - key     : unclebenswholegrainrice
     quantity: 250
   - key     : egg
-    quantity: 1    
+    quantity: 1
   - key     : peas
     quantity: 100
+ingredientsother:
+  - quantity: 2 tsp
+    name    : Garlic
+  - quantity: 2 tsp
+    name    : Chinese 5 Spice
+  - quantity: 4 tsp
+    name    : Maggi
