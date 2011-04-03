@@ -1,0 +1,38 @@
+name : Chicken Soup
+serves: 6
+ingredients:
+  - key     : sweet_potatos
+    quantity: 1000
+  - key     : chickenbreast
+    quantity: 750
+  - key     : oliveoil
+    quantity: 4
+  - key     : onion
+    quantity: 2
+  - key     : knorr_cube
+    quantity: 2
+otheringredients:
+  - quantity: 4 sticks
+    name    : Celery, diced
+  - quantity: 3 cloves
+    name    : Garlic
+  - quantity: 1 tsp
+    name    : Dried Basil
+  - quantity: 1 tsp
+    name    : Cumin
+  - quantity: 2 tsp
+    name    : Salt
+  - quantity: 1 tsp
+    name    : Pepper
+  - quantity: 1 bunch
+    name    : Coriander, chopped
+  - quantity: 1/2
+    name    : lime, juice of
+directions:
+  - Cook the onions in the olive oil until tender (10m)
+  - Add the celery, cook for 10 more minutes
+  - Stir in the spices and garlic
+  - Prepare 2litres of broth using oxo cubes
+  - Add sweet potatoes and the broth to mixture
+  - Leave to simmer until potatoes are tender (40m?)
+  - Stir in the chicken

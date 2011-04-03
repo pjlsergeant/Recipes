@@ -1,0 +1,11 @@
+name : Egg Fried Rice
+serves: 2
+ingredients:
+  - key     : chickenbreast
+    quantity: 125
+  - key     : unclebenswholegrainrice
+    quantity: 250
+  - key     : egg
+    quantity: 1    
+  - key     : peas
+    quantity: 100

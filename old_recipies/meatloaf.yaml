@@ -1,0 +1,24 @@
+name : Meatloaf
+serves: 6
+ingredients:
+  - key     : mince
+    quantity: 400
+  - key     : bread_oatmeal
+    quantity: 2
+  - key     : milk_semi_skimmed
+    quantity: 200
+  - key     : egg_white
+    quantity: 4
+  - key     : onion
+    quantity: 1
+  - key     : peas
+    quantity: 120
+  - key     : potatos_new
+    quantity: 1000
+  - key     : bbq_sauce
+    quantity: 2
+directions: |
+  - Mix everything but 1 teaspoon of BBQ sauce together
+  - Season and salt appropriately
+  - Slather BBQ sauce on top
+  - Oven for 40 minutes, checking regularly

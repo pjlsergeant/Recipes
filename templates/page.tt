@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<title>[% r.name %]</title>
+	</head>
+	<body>
+		<h1>[% r.name %]</h1>
+		<div>Serves: [% r.serves %] portions</div>
+		<div id="nutrition">
+			<h2>Nutritional Summary</h2>
+			<table>
+				<tr><td>Calories:</td><td>[% r.round(r.calories) %] kcal (calc: [% r.round(r.calories_calculated) %])</td></tr>
+			[% FOREACH type = ['fat', 'protein', 'carbs'] %]
+				<tr><td>[% type | ucfirst %]</td><td>[% r.pad(2, ' ', r.percentage_calories_from(type)) %]% - [% r.pad(3, ' ', r.round(r.calories_from(type))) %] kcal - [% r.round( r.grams_of(type) ) %]g
+			[% END %]
+			</table>
+		</div>
+		<div id="ingredients">
+			<h2>Ingredients</h2>
+			<table>
+				<tr>
+					<td colspan = "2">Ingredient</td>
+					<td>Calories</td>
+					<td colspan="2">Fat</td>
+					<td colspan="2">Protein</td>
+					<td colspan="2">Carbohydrate</td>
+				</tr>
+				[% FOREACH i = r.ingredients %]
+				<tr>
+					<td>[% i.quantity %] [% i.serving_units %]</td>
+					<td>[% i.name %]</td>
+					<td>[% r.pad(3, ' ', r.round(i.calories_calculated) ) %]kcal</td>
+					[% FOREACH type = ['fat', 'protein', 'carbs'] %]
+					<td>[% r.pad(3, ' ',  i.percentage_calories_from( type ) ) %]%</td>
+					<td>( [% r.pad(3, ' ',  r.round(i.calories_from( type ) ) ) %]kcal )</td>
+					[% END %]
+				</tr>
+				[% END %]
+				[% FOREACH i = r.otheringredients %]
+				<tr>
+					<td>[% i.quantity %]</td>
+					<td>[% i.name %]</td>
+					<td colspan="7"><i>negligible</i></td>
+				</tr>
+				[% END %]
+			</table>
+		</div>
+		<div id="directions">
+			<h2>Directions</h2>
+			<ol>
+			[% FOREACH direction = r.directions %]
+				<li>[% direction | html %]</li>
+			[% END %]
+			</ol>
+		</div>
+	</body>
+</html>

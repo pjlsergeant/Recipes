@@ -1,0 +1,25 @@
+name : Healthy Carbonara
+serves: 5
+ingredients:
+  - key     : bacon
+    quantity: 100
+  - key     : egg
+    quantity: 4
+  - key     : pasta
+    quantity: 300
+  - key     : greek_yoghurt
+    quantity: 200
+  - key     : milk_semi_skimmed
+    quantity: 100
+  - key     : peas
+    quantity: 100
+  - key     : courgette
+    quantity: 2
+  - key     : parmesan
+    quantity: 25
+directions:
+  - Get the bacon going in the grill. Save the fat
+  - Cook the pasta and peas
+  - Mix the eggs, yoghurt, milk, and parmesan together with pepper and salt until fluffy
+  - Dry-fry the courgette
+  - Mix it all together
