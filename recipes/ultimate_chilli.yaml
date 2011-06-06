@@ -1,0 +1,37 @@
+name : Ultimate Chilli
+serves: 7
+ingredients:
+  - key     : mince
+    quantity: 450
+  - key     : onion
+    quantity: 1
+  - key     : kidney_beans
+    quantity: 960
+  - key     : tomatoes
+    quantity: 500
+  - key     : peas
+    quantity: 200
+  - key     : knorr_cube
+    quantity: 2
+  - key     : dark_chocolate
+    quantity: 30
+  - key     : oliveoil
+    quantity: 2
+otheringredients:
+  - quantity: 1/2 tsp
+    name    : Salt
+  - quantity: 1/2 tsp
+    name    : Pepper
+  - quantity: 1/2 tsp
+    name    : Cumin
+  - quantity: 1/8 tsp
+    name    : Cinammon
+  - quantity: 1 tsp
+    name    : Chilli Powder
+  - quantity: 3 cloves
+    name    : Garlic
+directions:
+  - Brown the beef in a nonstick skillet over medium-high heat. Remove it with a slotted spoon and set it aside, leaving some of the fat in the skillet.
+  - Sauté the onion and garlic in the fat until soft (about 6 minutes).
+  - In a large stockpot, combine the browned beef, sautéed onion and garlic, beans, tomatoes, broth, spices, and chocolate. Simmer on low heat for 1 hour.
+

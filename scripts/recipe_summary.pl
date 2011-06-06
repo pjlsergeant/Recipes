@@ -7,7 +7,6 @@ use Template;
 use Recipe::Recipe;
 
 my $obj = Recipe::Recipe->new( @ARGV );
-
 my $template_file = join '', (<DATA>);
 my $template = Template->new();
 
@@ -29,8 +28,12 @@ Stats:
     Cal  F%  P%  C% |  Ingredients:
     ----------------+[% FOREACH i = r.ingredients %]
     [% r.pad(3, ' ', r.round(i.calories_calculated) ) %] [% r.pad(3, ' ',  i.percentage_calories_from('fat') ) %] [% r.pad(3, ' ',  i.percentage_calories_from('protein') ) %] [% r.pad(3, ' ',  i.percentage_calories_from('carbs') ) %] |  [% i.quantity %][% i.serving_units %] [% i.name %][% END %]
+    ----------------+[% FOREACH i = r.otheringredients %]
+                    |  [% i.quantity %] [% i.name %][% END %]
+
 
 [% IF r.directions %]Directions:
 
-[% r.directions %]
+[% FOREACH d = r.directions %][% d %]
+[% END %]
 [% END %]

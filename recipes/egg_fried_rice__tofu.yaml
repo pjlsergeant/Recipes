@@ -2,7 +2,9 @@ name : Egg Fried Rice
 serves: 2
 ingredients:
   - key     : chickenbreast
-    quantity: 125
+    quantity: 100
+  - key     : tofu
+    quantity: 50
   - key     : unclebenswholegrainrice
     quantity: 125
   - key     : egg

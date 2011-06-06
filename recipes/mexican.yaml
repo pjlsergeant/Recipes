@@ -1,0 +1,22 @@
+name : Mexican Stew
+serves: 4
+ingredients:
+  - key     : chickenbreast
+    quantity: 250
+  - key     : kidney_beans
+    quantity: 480
+  - key     : onion
+    quantity: 2
+  - key     : pepper
+    quantity: 3
+  - key     : oliveoil
+    quantity: 6
+  - key     : tomatoes
+    quantity: 400
+otheringredients:
+  - quantity: 2 tsp
+    name    : Garlic
+  - quantity: 1
+    name    : big bunch coriander
+  - quantity: 1
+    name    : lime

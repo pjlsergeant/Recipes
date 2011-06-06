@@ -1,12 +1,12 @@
 name : Healthy Carbonara
-serves: 5
+serves: 4
 ingredients:
-  - key     : bacon
-    quantity: 100
+  - key     : pancetta 
+    quantity: 50
   - key     : egg
     quantity: 4
   - key     : pasta
-    quantity: 300
+    quantity: 200
   - key     : greek_yoghurt
     quantity: 200
   - key     : milk_semi_skimmed
@@ -17,9 +17,17 @@ ingredients:
     quantity: 2
   - key     : parmesan
     quantity: 25
-directions:
-  - Get the bacon going in the grill. Save the fat
-  - Cook the pasta and peas
+otheringredients:
+  - name: Lime/lemon juice
+    quantity: A couple of squirts of
+  - name: Salt
+    quantity: to taste
+  - name: Garlic powder
+    quantity: to taste
+directions: 
+  - Bacon lardons and diced courgette, in a very non-stick pan, low heat until bacon fat is ready
+  - Prepare the peas
   - Mix the eggs, yoghurt, milk, and parmesan together with pepper and salt until fluffy
-  - Dry-fry the courgette
+  - Add peas and garlic to courgette and bacon when cooked, plus a bit of lime or lemon juice and garlic
   - Mix it all together
+  - I like to continue to heat the whole thing in a big big frying pan until the sauce starts to get lumpy bits in it

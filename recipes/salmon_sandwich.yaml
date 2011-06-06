@@ -1,0 +1,12 @@
+name : Salmon Sandwiches
+serves: 2
+ingredients:
+  - key     : smoked_salmon
+    quantity: 100
+  - key     : bread_oatmeal
+    quantity: 4
+  - key     : spinach
+    quantity: 50
+otheringredients:
+  - quantity: Dill
+    name    : to taste

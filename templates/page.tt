@@ -44,6 +44,7 @@
 				[% END %]
 			</table>
 		</div>
+		[% IF r.directions.size %]
 		<div id="directions">
 			<h2>Directions</h2>
 			<ol>
@@ -52,5 +53,6 @@
 			[% END %]
 			</ol>
 		</div>
+		[% END %]
 	</body>
 </html>

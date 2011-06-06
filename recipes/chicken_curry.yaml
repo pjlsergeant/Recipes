@@ -1,0 +1,17 @@
+name : Chicken Curry
+serves: 4
+ingredients:
+  - key     : unclebenswholegrainrice
+    quantity: 250
+  - key     : chickenbreast
+    quantity: 300
+  - key     : oliveoil
+    quantity: 6
+  - key     : onion
+    quantity: 2
+  - key     : pepper
+    quantity: 3
+  - key     : maggi
+    quantity: 2
+  - key     : tofu
+    quantity: 100
