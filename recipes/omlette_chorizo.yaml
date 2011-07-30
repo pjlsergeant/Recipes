@@ -1,0 +1,13 @@
+name : Omlette
+serves: 2
+ingredients:
+  - key     : egg
+    quantity: 2
+  - key     : egg_white
+    quantity: 2
+  - key     : cheddar
+    quantity: 5
+  - key     : chorizo
+    quantity: 30
+  - key     : bread_oatmeal
+    quantity: 3

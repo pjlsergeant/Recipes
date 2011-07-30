@@ -1,0 +1,11 @@
+name : Waitrose Chicken Salad
+serves: 2
+ingredients:
+  - key     : lemon_and_herb_chicken
+    quantity: 1
+  - key     : pistachio
+    quantity: 50
+  - key     : broccoli_cauliflower_carrot_bag
+    quantity: 1
+  - key     : artichokes_in_oil
+    quantity: 125
