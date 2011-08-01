@@ -1,0 +1,11 @@
+name : Maximuscle Bar and Weetabix
+serves: 2
+ingredients:
+  - key     : maximuscle_bar
+    quantity: 1
+  - key     : weetabix
+    quantity: 2
+  - key     : banana
+    quantity: 1
+  - key     : milk_full_fat
+    quantity: 250
