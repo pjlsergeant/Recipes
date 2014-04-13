@@ -1,12 +1,17 @@
-#!perl
+#!/usr/bin/perl
 
 use strict;
 use warnings;
 
+use FindBin::libs;
 use Template;
 use Recipe::Recipe;
 
-my $obj = Recipe::Recipe->new( @ARGV );
+my $filename = $ARGV[0];
+$filename =~ s/\.yaml$//;
+$filename =~ s!^recipes/!!;
+
+my $obj = Recipe::Recipe->new( $filename );
 my $template_file = join '', (<DATA>);
 my $template = Template->new();
 

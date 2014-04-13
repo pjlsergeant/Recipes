@@ -1,0 +1,13 @@
+name : Salmon Hash and V8
+serves: 4
+ingredients:
+  - key     : sweet_potatos
+    quantity: 400
+  - key     : saucy_fish
+    quantity: 540
+  - key     : oliveoil
+    quantity: 3
+  - key     : onion
+    quantity: 1
+  - key     : v8
+    quantity: 0

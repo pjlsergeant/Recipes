@@ -1,0 +1,28 @@
+name : Muesli Scones
+serves: 3
+ingredients:
+  - key     : almond_flour
+    quantity: 150
+  - key     : dried_apricots
+    quantity: 30
+  - key     : pistachios
+    quantity: 30
+  - key     : sunflower_seeds
+    quantity: 30
+  - key     : sesame_seeds
+    quantity: 40
+  - key     : cranberries
+    quantity: 30
+  - key     : egg
+    quantity: 1
+  - key     : peanut_butter_no_sugar
+    quantity: 65
+otheringredients:
+  - name: Salt
+    quantity: 1/4 teaspoon
+  - name: Baking soda
+    quantity: 1/4 teaspoon
+  - name: Cinammon
+    quantity: 4 teaspoons
+  - name: Sweetner
+    quantity: 2 tablespoons

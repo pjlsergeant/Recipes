@@ -1,0 +1,17 @@
+name : Lamb Stew
+serves: 5
+ingredients:
+  - key     : oliveoil
+    quantity: 6
+  - key     : aubergine
+    quantity: 2
+  - key     : lamb_neck
+    quantity: 750
+  - key     : onion
+    quantity: 1
+  - key     : chorizo
+    quantity: 200
+  - key     : chickpeas_drained
+    quantity: 220
+  - key     : knorr_cube
+    quantity: 2

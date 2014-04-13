@@ -1,0 +1,11 @@
+name : Weetabix and milk
+serves: 2
+ingredients:
+  - key     : weetabix
+    quantity: 4
+  - key     : banana
+    quantity: 1
+  - key     : milk_semi_skimmed
+    quantity: 300
+  - key     : sugar
+    quantity: 6

@@ -1,0 +1,14 @@
+name : Sweet Potato and Bacon Fritters
+serves: 1
+ingredients:
+  - key     : bacon
+    quantity: 78
+  - key     : oliveoil
+    quantity: 2
+  - key     : sweet_potatos
+    quantity: 300
+  - key     : egg_white
+    quantity: 2
+otheringredients:
+  - name: Cinamon
+    quantity: 3 tsp

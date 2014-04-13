@@ -1,0 +1,16 @@
+name : Fishcakes
+serves: 10
+ingredients:
+  - key     : tuna
+    quantity: 425
+  - key     : bread_oatmeal
+    quantity: 3
+  - key     : potatos_new
+    quantity: 320
+  - key     : cheddar
+    quantity: 50
+  - key     : egg
+    quantity: 2
+  - key     : shallot
+    quantity: 3
+ 

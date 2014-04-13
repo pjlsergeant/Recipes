@@ -1,7 +1,7 @@
 name : Healthy Carbonara
 serves: 4
 ingredients:
-  - key     : pancetta 
+  - key     : bacon
     quantity: 50
   - key     : egg
     quantity: 4
@@ -17,6 +17,10 @@ ingredients:
     quantity: 2
   - key     : parmesan
     quantity: 25
+  - key     : oliveoil
+    quantity: 1
+  - key     : onion
+    quantity: 1
 otheringredients:
   - name: Lime/lemon juice
     quantity: A couple of squirts of

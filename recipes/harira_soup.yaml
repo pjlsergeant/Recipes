@@ -1,0 +1,15 @@
+name : Harira Soup
+serves: 4
+ingredients:
+  - key     : oliveoil
+    quantity: 3
+  - key     : lamb_shoulder
+    quantity: 750
+  - key     : onion
+    quantity: 1
+  - key     : knorr_cube
+    quantity: 2
+  - key     : chickpeas_drained
+    quantity: 220
+  - key     : lentils_green
+    quantity: 125

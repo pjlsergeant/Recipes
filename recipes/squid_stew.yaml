@@ -1,0 +1,19 @@
+name : Squid Stew
+serves: 4
+ingredients:
+  - key     : oliveoil
+    quantity: 12
+  - key     : onion
+    quantity: 1
+  - key: chorizo
+    quantity: 200
+  - key: squid
+    quantity: 1100
+  - key: red_wine
+    quantity: 250
+  - key: tomatoes
+    quantity: 400
+  - key: knorr_cube
+    quantity: 1
+  - key: butter_beans
+    quantity: 400

@@ -1,0 +1,42 @@
+name : Chicken Korma
+serves: 6
+ingredients:
+  - key     : chickenbreast
+    quantity: 400
+  - key     : fat_free_yoghurt
+    quantity: 20
+  - key     : onion
+    quantity: 1
+  - key     : creamed_coconut
+    quantity: 10
+  - key     : oliveoil
+    quantity: 1
+  - key     : ground_almonds
+    quantity: 5
+  - key     : unclebenswholegrainrice
+    quantity: 750
+otheringredients:
+  - quantity: 0.5 tsp
+    name    : Fresh ginger
+  - quantity: 0.5 tsp
+    name    : ground coriander
+  - quantity: 2 cloves
+    name    : garlic
+  - quantity: 1 pinch
+    name    : tumeric
+  - quantity: 1 pinch
+    name    : garam masalla
+  - quantity: 1tsp
+    name    : lemon
+directions:
+  - 1. Cut the chicken breasts into bite sized chunks
+  - 2. Mix the chicken with the ginger, garlic and yogurt. Cover and marinade for 12 hours or in the fridge overnight.
+  - 3. Liquidise the chopped onion and red chillies, add a little water if you need to. blend til smooth.
+  - 4. Heat the ghee/oil in a pan.
+  - 5. Add the ground coriander, ground black pepper, turmeric and garam masala and stir fry for about 1-minute over a low heat.
+  - 6. Turn up the heat, add the onion and chilli paste and stir fry for 10-minutes.
+  - 7. Add the chicken and the marinade and continue to stir fry for another 10-minutes.
+  - 8. Add the creamed coconut and enough water to *just* cover the chicken and bring to the boil, stirring until the coconut is dissolved. Stir in the ground almonds.
+  - 9. Reduce heat to low, cover the pan and simmer until the chicken is tender (30-40 minutes).
+  - 10. Remove from heat, add lemon juice and salt to taste. Mix well.
+

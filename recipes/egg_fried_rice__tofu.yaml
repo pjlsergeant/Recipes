@@ -1,26 +1,26 @@
 name : Egg Fried Rice
-serves: 2
+serves: 4
 ingredients:
   - key     : chickenbreast
-    quantity: 100
+    quantity: 200
   - key     : tofu
-    quantity: 50
+    quantity: 100
   - key     : unclebenswholegrainrice
-    quantity: 125
+    quantity: 250
   - key     : egg
-    quantity: 1
+    quantity: 2
   - key     : peas
-    quantity: 50
+    quantity: 100
   - key     : oliveoil
-    quantity: 2
+    quantity: 4
   - key     : pepper
-    quantity: 1
-  - key     : onion
-    quantity: 1
-  - key     : maggi
     quantity: 2
+  - key     : onion
+    quantity: 2
+  - key     : maggi
+    quantity: 4
 otheringredients:
-  - quantity: 2 tsp
+  - quantity: 4 tsp
     name    : Garlic
-  - quantity: 2 tsp
+  - quantity: 4 tsp
     name    : Chinese 5 Spice

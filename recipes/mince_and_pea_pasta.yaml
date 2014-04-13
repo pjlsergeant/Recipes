@@ -1,0 +1,13 @@
+name : Mince and pea pasta
+serves: 1
+ingredients:
+  - key     : mince
+    quantity: 70
+  - key     : pasta
+    quantity: 50
+  - key     : peas
+    quantity: 50
+  - key     : mushrooms
+    quantity: 65
+  - key     : spinach
+    quantity: 25

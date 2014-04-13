@@ -1,0 +1,7 @@
+name         : White Wine
+serving_size : 125
+serving_units: ml
+fat          : 0
+protein      : 0.1
+carbs        : 22
+calories     : 85

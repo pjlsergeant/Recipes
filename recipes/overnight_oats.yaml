@@ -1,0 +1,11 @@
+name : Overnight Oats
+serves: 1
+ingredients:
+  - key     : oats
+    quantity: 95
+  - key     : milk_full_fat
+    quantity: 284
+  - key     : greek_yoghurt
+    quantity: 80
+  - key     : peanut_butter_no_sugar
+    quantity: 25

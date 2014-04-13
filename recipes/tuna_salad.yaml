@@ -1,0 +1,25 @@
+name : Thai Tuna Salad
+serves: 2
+ingredients:
+  - key     : unclebenswholegrainrice
+    quantity: 250
+  - key     : tuna
+    quantity: 240
+  - key     : oliveoil
+    quantity: 1
+  - key     : fish_sauce
+    quantity: 1
+  - key     : lime
+    quantity: 1
+  - key     : shallot
+    quantity: 5
+otheringredients:
+  - quantity: to taste
+    name    : mint
+  - quantity: to taste
+    name    : coriander
+  - quantity: two or three
+    name    : spring onions
+directions:
+  - Chop everything, mix with rice
+

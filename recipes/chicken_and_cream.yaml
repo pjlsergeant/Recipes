@@ -1,0 +1,15 @@
+name : Chicken and cream
+serves: 3
+ingredients:
+  - key     : chickenbreast
+    quantity: 500
+  - key     : oliveoil
+    quantity: 8
+  - key     : potatos_new
+    quantity: 400
+  - key     : knorr_cube
+    quantity: 2
+  - key     : broccoli
+    quantity: 400
+  - key     : creme_fraich
+    quantity: 100

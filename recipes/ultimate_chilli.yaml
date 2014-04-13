@@ -1,10 +1,10 @@
 name : Ultimate Chilli
-serves: 7
+serves: 4
 ingredients:
   - key     : mince
-    quantity: 450
+    quantity: 500
   - key     : onion
-    quantity: 1
+    quantity: 2
   - key     : kidney_beans
     quantity: 960
   - key     : tomatoes
@@ -16,7 +16,7 @@ ingredients:
   - key     : dark_chocolate
     quantity: 30
   - key     : oliveoil
-    quantity: 2
+    quantity: 8
 otheringredients:
   - quantity: 1/2 tsp
     name    : Salt
